@@ -1,0 +1,30 @@
+apiVersion: v1
+entries:
+  artifactory:
+  - apiVersion: v1
+    appVersion: 6.5.2
+    created: 2018-11-09T12:56:42.416439274+05:30
+    description: Universal Repository Manager supporting all major packaging formats,
+      build tools and CI servers.
+    digest: 587044e6e6fc4de7f94ac42f96735f24881bd92009025fb37ce98cf9750da472
+    home: https://www.jfrog.com/artifactory/
+    icon: https://raw.githubusercontent.com/jfrog/artifactory-dcos/master/images/jfrog_med.png
+    keywords:
+    - artifactory
+    - jfrog
+    - devops
+    maintainers:
+    - email: jainishs@jfrog.com
+      name: jainishshah17
+    - email: eldada@jfrog.com
+      name: eldada
+    - email: rimasm@jfrog.com
+      name: rimusz
+    name: artifactory
+    sources:
+    - https://bintray.com/jfrog/product/JFrog-Artifactory-Pro/view
+    - https://github.com/jfrog/charts
+    urls:
+    - https://keshav-rai001.github.io/artifactory/artifactory-7.7.1.tgz
+    version: 7.7.1
+generated: 2018-11-09T12:56:42.414612593+05:30
