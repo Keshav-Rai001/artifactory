@@ -3,10 +3,10 @@ entries:
   artifactory:
   - apiVersion: v1
     appVersion: 6.5.2
-    created: 2018-11-09T13:49:56.695645301+05:30
+    created: 2018-11-09T14:26:48.904288866+05:30
     description: Universal Repository Manager supporting all major packaging formats,
       build tools and CI servers.
-    digest: 2d2b4b4497ae4694ad0b5104de744a5b186b3bbf9a72f5ec37be7f5e8fffd823
+    digest: 9a7f0269b64de42b3be3568cfc932d45e2ee5a2a0151f45ae5cc14c11ef866d5
     home: https://www.jfrog.com/artifactory/
     icon: https://raw.githubusercontent.com/jfrog/artifactory-dcos/master/images/jfrog_med.png
     keywords:
@@ -27,4 +27,4 @@ entries:
     urls:
     - https://keshav-rai001.github.io/artifactory/artifactory-7.7.1.tgz
     version: 7.7.1
-generated: 2018-11-09T13:49:56.693861367+05:30
+generated: 2018-11-09T14:26:48.901202402+05:30
